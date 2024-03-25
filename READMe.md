@@ -21,4 +21,5 @@
 # NOTE: 
   - The gitHub repository name is "vin-tour-ph"
   - Final name "pom.xml" for the app=vin-tour-ph-version 
-  - Example: vin-tour-ph-v1.0.0
+  - Example: maya.app
+  - Check this out
